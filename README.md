@@ -6,11 +6,8 @@ hi, i'm yincai jiang, a passionate full stack (.net) web developer and a coder. 
 
 i am also an open-source enthusiast and maintainer.learned a lot from the open-source community and love how collaboration and knowledge sharing happened through open-source.
 
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
 
-**used:**  
+:wrench:**used:**  
 operating system:
 
 ![](https://img.shields.io/badge/-windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
@@ -54,9 +51,13 @@ tools:
 ![](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Windows--Terminal-4D4D4D?logo=WindowsTerminal&logoColor=white&style=for-the-badge)
 
-:bar_chart: **activity graph:**
+:eyes: **about me :**
 
-[![DannyJyc's github activity graph](https://activity-graph.herokuapp.com/graph?username=DannyJyc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+- wechat: jyc980710
+- email: 13080839167@163.com
+- gitee: https://gitee.com/hash-bear
+- github: https://github.com/DannyJyc
 
 
 :chart_with_upwards_trend: **my github stats**
@@ -69,4 +70,4 @@ tools:
 [![DannyJyc's GitHub common language](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyJyc&hide=javascript,css&layout=compact&theme=gruvbox&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=README.md&left_color=green&right_color=red)
