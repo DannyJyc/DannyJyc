@@ -75,4 +75,7 @@ tools:
 [![DannyJyc's GitHub common language](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyJyc&hide=javascript,css&layout=compact&theme=gruvbox&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=README.md&left_color=green&right_color=red)
+<p align="center"> 
+  visitor count<br>
+  <img src="https://profile-counter.glitch.me/DannyJyc/count.svg" /><br>
+</p>
