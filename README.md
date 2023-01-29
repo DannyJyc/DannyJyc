@@ -40,6 +40,7 @@ front-end:
 ![](https://img.shields.io/badge/-Chart-FF6384?logo=Chart.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Axios-5A29E4?logo=Axios&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
@@ -49,7 +50,11 @@ tools:
 ![](https://img.shields.io/badge/-visual--studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-visual--studio--code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-teamviewer-004680?logo=teamviewer&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-Windows--Terminal-4D4D4D?logo=WindowsTerminal&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-chrome-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-gitee-C71D23?logo=gitee&logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge)
 
 :eyes: **about me :**
 
