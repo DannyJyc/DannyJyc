@@ -19,7 +19,7 @@ operating system:
 database:
 
 ![](https://img.shields.io/badge/-SQL--server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/-oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 
 server-side:
