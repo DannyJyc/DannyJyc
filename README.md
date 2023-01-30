@@ -72,7 +72,7 @@ tools:
 
 :fire: **common language**
 
-[![DannyJyc's GitHub common language](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyJyc&hide=javascript,css&layout=compact&theme=gruvbox&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![DannyJyc's GitHub common language](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyJyc&layout=compact&theme=gruvbox&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"> 
